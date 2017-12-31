@@ -1,7 +1,7 @@
 # adventofcode
 
-Solutions to AoC 2017 in Clojure
-Noob solutions, just learning the language.
+Solutions to AoC 2017 in Clojure.
+(Noob solutions, just learning the language)
 
 Solutions: 
 1 a
